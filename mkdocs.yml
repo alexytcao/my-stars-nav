@@ -1,15 +1,15 @@
-site_name: 我的星标库 # 改这里：你的网站主标题
+site_name: 我的星标武器库
 site_description: GitHub Star 项目分类导航
 
 theme:
   name: material
-  language: zh # 设置为中文，自带的搜索框会支持中文分词
+  language: zh
   features:
-    - navigation.tabs # 开启顶部导航栏
-    - navigation.tabs.sticky # 🌟 新增：导航栏吸顶，向下滚动时菜单不消失
+    # 🌟 核心修改：删除了 navigation.tabs，让分类菜单常驻在左侧不消失
     - navigation.top # 开启返回顶部按钮
     - search.suggest # 搜索建议
-  palette: # 🌟 新增：日间/夜间模式切换按钮配置
+    - navigation.tracking # 当你在右侧滚动时，左侧菜单会自动高亮你所在的位置
+  palette:
     - scheme: default
       primary: indigo
       toggle:
@@ -21,19 +21,17 @@ theme:
         icon: material/brightness-4
         name: 切换到日间模式
 
-# Markdown 扩展语法支持（表格、Emoji等）
 markdown_extensions:
   - tables
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-  - attr_list # 允许你给文字加标签样式
+  - attr_list
 
-# 🌟 新增：插件配置（用于显示最后更新时间）
 plugins:
-  - search # 声明了 plugins 节点后，必须把自带的 search 加回来
+  - search
   - git-revision-date-localized:
-      type: date # 显示格式为：YYYY年MM月DD日
+      type: date
       fallback_to_build_date: true
 
 extra_css:
