@@ -1,0 +1,18 @@
+/* 强制表格宽度占满，并允许长文本自动换行 */
+.md-typeset table:not([class]) {
+    display: table;
+    width: 100%;
+    table-layout: auto;
+    word-break: break-word; /* 允许单词内换行，防止长链接撑破表格 */
+}
+
+/* 强制所有单元格内容换行，取消不换行限制 */
+.md-typeset table:not([class]) th,
+.md-typeset table:not([class]) td {
+    white-space: normal; 
+}
+
+/* （可选）稍微限制一下“描述”列（第3列）占据页面的最大比例，让界面更协调 */
+.md-typeset table:not([class]) td:nth-child(3) {
+    width: 50%;
+}
