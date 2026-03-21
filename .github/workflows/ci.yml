@@ -1,0 +1,17 @@
+name: ci
+on:
+  push:
+    branches:
+      - main # 如果你的主分支叫 master，请改成 master
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+      - run: pip install mkdocs-material
+      - run: mkdocs gh-deploy --force
