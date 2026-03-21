@@ -2,7 +2,7 @@ name: ci
 on:
   push:
     branches:
-      - main # 如果你的主分支叫 master，请改成 master
+      - main 
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -10,8 +10,10 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # 🌟 必须配置：拉取完整记录，系统才能算出每篇文档的修改时间
       - uses: actions/setup-python@v5
         with:
           python-version: 3.x
-      - run: pip install mkdocs-material
+      - run: pip install mkdocs-material mkdocs-git-revision-date-localized-plugin # 🌟 必须配置：加装时间生成插件
       - run: mkdocs gh-deploy --force
