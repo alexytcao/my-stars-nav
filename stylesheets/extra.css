@@ -1,18 +1,36 @@
-/* 强制表格宽度占满，并允许长文本自动换行 */
-.md-typeset table:not([class]) {
-    display: table;
-    width: 100%;
-    table-layout: auto;
-    word-break: break-word; /* 允许单词内换行，防止长链接撑破表格 */
-}
-
-/* 强制所有单元格内容换行，取消不换行限制 */
+/* 1. 基础设定：允许自然换行，防止长链接撑破网页 */
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
-    white-space: normal; 
+    white-space: normal !important;
+    word-break: break-word;
 }
 
-/* （可选）稍微限制一下“描述”列（第3列）占据页面的最大比例，让界面更协调 */
+/* 2. 针对 5 列表格精准分配空间 */
+
+/* 第 1 列：项目与热度（保留够用空间即可） */
+.md-typeset table:not([class]) td:nth-child(1) {
+    min-width: 140px;
+}
+
+/* 第 2 列：核心功能（这是重头戏，给它分配 35% 的宽度，保证阅读舒适） */
+.md-typeset table:not([class]) td:nth-child(2) {
+    width: 35%;
+    min-width: 200px;
+}
+
+/* 第 3 列：综合标签（取消以前错误的 50%，限制它的宽度） */
 .md-typeset table:not([class]) td:nth-child(3) {
-    width: 50%;
+    width: 15%;
+    min-width: 100px;
+}
+
+/* 第 4 列：状态与推荐（够放几个字和 Emoji 就行） */
+.md-typeset table:not([class]) td:nth-child(4) {
+    min-width: 100px;
+}
+
+/* 第 5 列：个人备注（为你以后的主观评价预留足够宽的空间） */
+.md-typeset table:not([class]) td:nth-child(5) {
+    width: 30%;
+    min-width: 180px;
 }
