@@ -15,7 +15,8 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - attr_list # 允许你给文字加标签样式
-
+extra_css:
+  - stylesheets/extra.css
 nav:
   - 🏠 首页: index.md
   - 🤖 最新 Star 盲盒: auto_stars.md # <-- 加上这一行
