@@ -5,46 +5,30 @@
     word-break: break-word;
 }
 
-/* 2. 针对 5 列表格精准分配空间 */
-
-/* 第 1 列：项目与热度（保留够用空间即可） */
-.md-typeset table:not([class]) td:nth-child(1) {
-    min-width: 140px;
+/* 2. 针对表格单元格内的特殊元素（标签）进行统一样式初始化（做成小药丸形状） */
+.md-typeset table:not([class]) td code,
+.md-typeset table:not([class]) td strong {
+    display: inline-block;
+    padding: 3px 8px;
+    border-radius: 12px;
+    font-size: 0.8em;
+    margin: 2px;
+    white-space: nowrap;
+    font-weight: normal; /* 强制粗体不加粗，保持精致感 */
+    letter-spacing: 1px; /* 增加一点字间距 */
 }
 
-/* 第 2 列：核心功能（这是重头戏，给它分配 35% 的宽度，保证阅读舒适） */
-.md-typeset table:not([class]) td:nth-child(2) {
-    width: 35%;
-    min-width: 200px;
-}
-
-/* 第 3 列：综合标签（取消以前错误的 50%，限制它的宽度） */
-.md-typeset table:not([class]) td:nth-child(3) {
-    width: 15%;
-    min-width: 100px;
-}
-
-/* 第 4 列：状态与推荐（够放几个字和 Emoji 就行） */
-.md-typeset table:not([class]) td:nth-child(4) {
-    min-width: 100px;
-}
-
-/* 第 5 列：个人备注（为你以后的主观评价预留足够宽的空间） */
-.md-typeset table:not([class]) td:nth-child(5) {
-    width: 30%;
-    min-width: 180px;
-}
-
-/* 让表格里的行内代码块变成高颜值的“小药丸”标签 */
+/* 3. 【标准技术标签】（对应 Markdown 行内代码 \`\`）：清爽的蓝色系 */
 .md-typeset table:not([class]) td code {
-    background-color: #f0f4f8; /* 清爽的浅蓝灰底色 */
-    color: #275da1; /* 护眼的深蓝字体 */
-    border-radius: 12px; /* 关键：大圆角，真正的药丸形状 */
-    padding: 3px 8px; /* 标签内部留白 */
-    font-size: 0.85em; /* 字号稍微缩小，显得精致 */
-    border: 1px solid #d1d9e0; /* 加个细边框更有立体感 */
-    word-break: keep-all; /* 保证标签内的文字不会断开换行 */
-    display: inline-block; /* 保证边距生效 */
-    margin: 2px 2px; /* 多个标签挤在一起时，自动隔开距离 */
-    box-shadow: 0 1px 2px rgba(0,0,0,0.05); /* 极弱的投影提升质感 */
+    background-color: #e3f2fd; /* 浅蓝底 */
+    color: #1565c0; /* 深蓝字 */
+    border: 1px solid #90caf9; /* 中蓝边 */
+}
+
+/* 4. 【个人精品标签】（对应 Markdown 粗体 ** **）：清爽的绿色系 */
+.md-typeset table:not([class]) td strong {
+    background-color: #e8f5e9; /* 浅绿底 */
+    color: #2e7d32; /* 深绿字 */
+    border: 1px solid #a5d6a7; /* 中绿边 */
+    box-shadow: 0 1px 2px rgba(0,0,0,0.05); /* 极弱投影提升质感 */
 }
