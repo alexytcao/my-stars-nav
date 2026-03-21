@@ -34,3 +34,17 @@
     width: 30%;
     min-width: 180px;
 }
+
+/* 让表格里的行内代码块变成高颜值的“小药丸”标签 */
+.md-typeset table:not([class]) td code {
+    background-color: #f0f4f8; /* 清爽的浅蓝灰底色 */
+    color: #275da1; /* 护眼的深蓝字体 */
+    border-radius: 12px; /* 关键：大圆角，真正的药丸形状 */
+    padding: 3px 8px; /* 标签内部留白 */
+    font-size: 0.85em; /* 字号稍微缩小，显得精致 */
+    border: 1px solid #d1d9e0; /* 加个细边框更有立体感 */
+    word-break: keep-all; /* 保证标签内的文字不会断开换行 */
+    display: inline-block; /* 保证边距生效 */
+    margin: 2px 2px; /* 多个标签挤在一起时，自动隔开距离 */
+    box-shadow: 0 1px 2px rgba(0,0,0,0.05); /* 极弱的投影提升质感 */
+}
