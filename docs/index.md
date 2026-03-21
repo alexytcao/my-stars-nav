@@ -7,8 +7,8 @@
 | 项目与热度 | 核心功能 | 综合标签 | 状态与推荐 | 个人备注 |
 | :--- | :--- | :--- | :--- | :--- |
 | [rtp2httpd](https://github.com/stackia/rtp2httpd) *(⭐1576)* | 将多播 RTP/RTSP 转换为单播 HTTP 的流媒体服务器。 | `[流媒体]` `[转码]` `[个人:测试]` | ✅ 主力 | 🔥🔥🔥  |
-| [scrutiny](https://github.com/AnalogJ/scrutiny) *(⭐7581)* | 提供历史趋势与实际故障阈值的硬盘 S.M.A.R.T 监控工具。 | `[系统监控]` `[硬盘]` | ⏳ 待评估 |   |
-| [watchtower](https://github.com/nicholas-fedor/watchtower) *(⭐3123)* | 自动更新 Docker 容器镜像的实用工具。 | `[Docker]` `[自动化]` | ⏳ 待评估 |   |
+| [scrutiny](https://github.com/AnalogJ/scrutiny) *(⭐7581)* | 提供历史趋势与实际故障阈值的硬盘 S.M.A.R.T 监控工具。 | `[系统监控]` `[硬盘]` | ✅ 待评估 |   |
+| [watchtower](https://github.com/nicholas-fedor/watchtower) *(⭐3123)* | 自动更新 Docker 容器镜像的实用工具。 | `[Docker]` `[自动化]` | ✅ 主力 | 更新docker神器   |
 | [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) *(⭐37530)* | 支持扫描、索引和归档的超级文档管理系统。 | `[文档管理]` `[无纸化]` | ⏳ 待评估 |   |
 | [Prowlarr](https://github.com/Prowlarr/Prowlarr) *(⭐6250)* | 完美集成各大影音管理软件的 BT/PT 索引器管理器。 | `[媒体库]` `[PT/BT]` | ⏳ 待评估 |   |
 | [MoviePilot](https://github.com/jxxghp/MoviePilot) *(⭐10731)* | 专为 NAS 打造的媒体库自动化管理工具。 | `[媒体库]` `[自动化]` | ⏳ 待评估 |   |
