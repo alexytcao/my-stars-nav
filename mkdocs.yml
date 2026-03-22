@@ -40,3 +40,4 @@ extra_css:
 nav:
   - 🏠 首页: index.md
   - 🤖 最新 Star 盲盒: auto_stars.md
+  - 🔖 bookmark: bookmarks.md
