@@ -4,48 +4,48 @@
 
 ## 🐳 Docker 与自托管 (Self-Hosted)
 
-| 项目与热度                                                                                      | 核心功能                                            | 综合标签              | 状态与推荐 | 个人备注                             |
-|:------------------------------------------------------------------------------------------ |:----------------------------------------------- |:----------------- |:----- |:-------------------------------- |
-| [uptime-kuma](https://github.com/louislam/uptime-kuma) *(⭐84307)*                          | 界面美观、支持多种通知方式的自托管状态监控工具。                        | `服务监控` `探针`       | ✅ 优秀  | 很棒的监控软件，很直观；                     |
-| [siyuan](https://github.com/siyuan-note/siyuan) *(⭐42012)*                                 | 隐私优先、支持本地双链与同步的开源个人知识管理软件（思源笔记）。                | `知识管理` `笔记`       | ✅ 优秀  | 第一是Obsidian；<br/>第二就是思源；         |
-| [homepage](https://github.com/gethomepage/homepage) *(⭐29051)*                             | 高度可定制且深度集成 Docker 容器数据接口的导航主页。                  | `导航面板` `主页`       | ✅ 优秀  | 当之无愧的导航页面第一；                     |
-| [OpenList](https://github.com/OpenListTeam/OpenList) *(⭐21463)*                            | 基于 AList 分支构建的强大云盘挂载工具。                         | `云盘挂载` `存储`       | ✅ 优秀  | 连接了我的天翼云盘，云盘神器；                  |
-| [linkwarden](https://github.com/linkwarden/linkwarden) *(⭐17572)*                          | 收集、阅读并永久保存网页的自托管协作书签管理器。                        | `书签管理` `归档`       | ✅ 优秀  | 功能很强大，只能怪我nas性能太差，发挥不出来；         |
-| [blinko](https://github.com/blinkospace/blinko) *(⭐9746)*                                  | 注重隐私与 AI 结合的开源自托管个人笔记工具。                        | `AI笔记` `碎片化`      | ✅ 优秀  | 零碎笔记的收藏地方；                       |
-| [scrutiny](https://github.com/AnalogJ/scrutiny) *(⭐7581)*                                  | 提供历史趋势与实际故障阈值的硬盘 S.M.A.R.T 监控工具。                | `系统监控` `硬盘`       | ✅ 一般  | 感觉效果和我期望有差距，和crystal差不多；         |
-| [lucky](https://github.com/gdy666/lucky) *(⭐7538)*                                         | 包含反向代理、内网穿透与 DDNS 功能的软路由公网神器。                   | `网络代理` `软路由`      | ✅ 神器  | 现在全靠它了，不然外网访问都是问题；               |
-| [watchtower](https://github.com/nicholas-fedor/watchtower) *(⭐3123)*                       | 自动更新 Docker 容器镜像的实用工具。                          | `Docker` `自动化`    | ✅ 主力  | 更新docker神器                       |
-| [rtp2httpd](https://github.com/stackia/rtp2httpd) *(⭐1576)*                                | 将多播 RTP/RTSP 转换为单播 HTTP 的流媒体服务器。                | `流媒体` `转码` **测试** | ✅ 主力  | 🔥🔥🔥                           |
-| [immich](https://github.com/immich-app/immich) *(⭐95322)*                                  | 体验媲美 Google Photos 的高性能自托管照片与视频备份方案。            | `相册管理` `备份`       | ❌ 优秀  | 因为有飞牛自带的，所以没用这个                  |
-| [syncthing](https://github.com/syncthing/syncthing) *(⭐80987)*                             | 去中心化的开源连续文件同步工具，NAS 必备。                         | `文件同步` `NAS`      | ❌     | 操作有些不符合国人操作习惯，还是verysync更顺手一些；   |
-| [memos](https://github.com/usememos/memos) *(⭐58086)*                                      | 开源、轻量且支持 Markdown 的自托管碎片化笔记工具。                  | `闪念笔记` `记录`       | ❌ 一般  | 体验上没有blinko好，太简洁了；               |
-| [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) *(⭐37530)*                 | 支持扫描、索引和归档的超级文档管理系统。                            | `文档管理` `无纸化`      | ❌     |                                  |
-| [server](https://github.com/nextcloud/server) *(⭐34400)*                                   | 开源强大的个人云盘服务器 Nextcloud 核心源码。                    | `私有云盘` `协作`       | ❌ 优秀  | 如果机器的性能再高一点，我就用这个了，性能不允许；        |
-| [watchtower](https://github.com/containrrr/watchtower) *(⭐24565)*                          | 全自动化的 Docker 容器基础镜像更新工具。                        | `Docker` `自动化`    | ⏸ 失望  | 这个是原版链接，但是不更新了；                  |
-| [sun-panel](https://github.com/hslr-s/sun-panel) *(⭐5018)*                                 | 高颜值的服务器、NAS 导航面板与浏览器首页。                         | `导航面板` `主页`       | ❌ 优秀  | 界面优秀，信息密度太低，所以pass；              |
-| [docker-calibre-web](https://github.com/linuxserver/docker-calibre-web) *(⭐1376)*          | Calibre-web 电子书库管理界面的 LinuxServer 官方 Docker 镜像。 | `电子书` `媒体库`       | ❌     |                                  |
-| [dockerCopilot](https://github.com/onlyLTY/dockerCopilot) *(⭐795)*                         | 极其简便的 Docker 容器一键更新工具。                          | `Docker` `管理`     | ❌ 待评估 | 和watchtower是一类，但是wt太好用了，所以没有试这个； |
-| [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) *(⭐281246)* | 全网极其庞大且详尽的免费自托管网络服务与应用大全。                       | `导航合集` `自托管`      | ⏳ 待评估 |                                  |
-| [beszel](https://github.com/henrygd/beszel) *(⭐20146)*                                     | 轻量级服务器监控中心，包含历史数据、Docker 状态及告警。                 | `探针` `监控面板`       | ⏳ 待评估 |                                  |
-| [openproject](https://github.com/opf/openproject) *(⭐14638)*                               | 领先的开源企业级项目管理与协作软件。                              | `项目管理` `协作`       | ⏳ 待评估 |                                  |
-| [FreshRSS](https://github.com/FreshRSS/FreshRSS) *(⭐14458)*                                | 免费且支持自托管的轻量级 RSS 新闻聚合器。                         | `RSS聚合` `阅读`      | ⏳ 待评估 |                                  |
-| [wallabag](https://github.com/wallabag/wallabag) *(⭐12583)*                                | 开源的网页稍后阅读工具，支持分类提取与永久保存。                        | `稍后阅读` `书签`       | ⏳ 待评估 |                                  |
-| [dozzle](https://github.com/amir20/dozzle) *(⭐12106)*                                      | 支持 Docker、Swarm 和 K8s 的超轻量实时容器日志查看器。            | `容器日志` `监控`       | ⏳ 待评估 |                                  |
-| [mealie](https://github.com/mealie-recipes/mealie) *(⭐11756)*                              | 支持 RestAPI 和自动导入的自托管家庭菜谱管家。                     | `生活管家` `菜谱`       | ⏳ 待评估 |                                  |
-| [MoviePilot](https://github.com/jxxghp/MoviePilot) *(⭐10731)*                              | 专为 NAS 打造的媒体库自动化管理工具。                           | `媒体库` `自动化`       | ⏳ 待评估 |                                  |
-| [linkding](https://github.com/sissbruecker/linkding) *(⭐10327)*                            | 极简、快速且易于 Docker 部署的自托管书签管理器。                    | `书签管理` `极简`       | ⏳ 待评估 |                                  |
-| [Heimdall](https://github.com/linuxserver/Heimdall) *(⭐9065)*                              | 优雅的应用程序导航面板与启动器。                                | `导航面板` `主页`       | ⏳ 待评估 |                                  |
-| [wewe-rss](https://github.com/cooderl/wewe-rss) *(⭐8995)*                                  | 支持私有化部署的优雅微信公众号 RSS 生成器。                        | `微信` `RSS聚合`      | ⏳ 待评估 |                                  |
-| [grocy](https://github.com/grocy/grocy) *(⭐8868)*                                          | 基于 Web 的自托管家庭食材杂货与家务 ERP 管理系统。                  | `生活管家` `ERP`      | ⏳ 待评估 |                                  |
-| [istoreos](https://github.com/istoreos/istoreos) *(⭐7472)*                                 | 面向新手的极其易用的路由器与 NAS 操作系统。                        | `系统路由` `NAS`      | ⏳ 待评估 |                                  |
-| [Prowlarr](https://github.com/Prowlarr/Prowlarr) *(⭐6250)*                                 | 完美集成各大影音管理软件的 BT/PT 索引器管理器。                     | `媒体库` `PT/BT`     | ⏳ 待评估 |                                  |
-| [Awesome-NAS-Docker](https://github.com/TWO-ICE/Awesome-NAS-Docker) *(⭐3759)*              | 专注于 NAS 和 Docker 部署的开源项目与一键教程合集。                | `NAS导航` `合集`      | ⏳ 待评估 |                                  |
-| [awesome_docker_cn](https://github.com/coracoo/awesome_docker_cn) *(⭐3443)*                | 收录上百款可 Docker 部署的中文项目指南及部署教程。                   | `Docker` `合集`     | ⏳ 待评估 |                                  |
-| [midea_ac_lan](https://github.com/wuwentao/midea_ac_lan) *(⭐1558)*                         | 通过局域网自动配置并控制美的智能家电的组件。                          | `智能家居` `HA`       | ⏳ 待评估 |                                  |
-| [cloudbak](https://github.com/likeflyme/cloudbak) *(⭐1343)*                                | 将微信数据备份到服务器、Docker 或 NAS 并支持 Web 访问的工具。         | `微信备份` `数据安全`     | ⏳ 待评估 |                                  |
-| [doku](https://github.com/amerkurev/doku) *(⭐410)*                                         | 轻量级的 Docker 磁盘空间使用情况可视化监控面板。                    | `Docker监控` `存储`   | ⏳ 待评估 |                                  |
-| [sun-panel-helper](https://github.com/madrays/sun-panel-helper) *(⭐275)*                   | 为 Sun-Panel 导航面板开发的一键快捷美化插件。                    | `导航面板` `美化`       | ⏳ 待评估 |                                  |
-| [hass-hjq](https://github.com/XiaoMiku01/hass-hjq) *(⭐74)*                                 | 移动爱家（原和家亲）的 Home Assistant 集成插件。                | `智能家居` `HA`       | ⏳ 待评估 |                                  |
+| 项目与热度                                                                                      | 核心功能                                            | 综合标签            | 状态与推荐 | 个人备注                             |
+|:------------------------------------------------------------------------------------------ |:----------------------------------------------- |:--------------- |:----- |:-------------------------------- |
+| [uptime-kuma](https://github.com/louislam/uptime-kuma) *(⭐84307)*                          | 界面美观、支持多种通知方式的自托管状态监控工具。                        | `服务监控` `探针`     | ✅ 优秀  | 很棒的监控软件，很直观；                     |
+| [siyuan](https://github.com/siyuan-note/siyuan) *(⭐42012)*                                 | 隐私优先、支持本地双链与同步的开源个人知识管理软件（思源笔记）。                | `知识管理` `笔记`     | ✅ 优秀  | 第一是Obsidian；<br/>第二就是思源；         |
+| [homepage](https://github.com/gethomepage/homepage) *(⭐29051)*                             | 高度可定制且深度集成 Docker 容器数据接口的导航主页。                  | `导航面板` `主页`     | ✅ 优秀  | 当之无愧的导航页面第一；                     |
+| [OpenList](https://github.com/OpenListTeam/OpenList) *(⭐21463)*                            | 基于 AList 分支构建的强大云盘挂载工具。                         | `云盘挂载` `存储`     | ✅ 优秀  | 连接了我的天翼云盘，云盘神器；                  |
+| [linkwarden](https://github.com/linkwarden/linkwarden) *(⭐17572)*                          | 收集、阅读并永久保存网页的自托管协作书签管理器。                        | `书签管理` `归档`     | ✅ 优秀  | 功能很强大，只能怪我nas性能太差，发挥不出来；         |
+| [blinko](https://github.com/blinkospace/blinko) *(⭐9746)*                                  | 注重隐私与 AI 结合的开源自托管个人笔记工具。                        | `AI笔记` `碎片化`    | ✅ 优秀  | 零碎笔记的收藏地方；                       |
+| [scrutiny](https://github.com/AnalogJ/scrutiny) *(⭐7581)*                                  | 提供历史趋势与实际故障阈值的硬盘 S.M.A.R.T 监控工具。                | `系统监控` `硬盘`     | ✅ 一般  | 感觉效果和我期望有差距，和crystal差不多；         |
+| [lucky](https://github.com/gdy666/lucky) *(⭐7538)*                                         | 包含反向代理、内网穿透与 DDNS 功能的软路由公网神器。                   | `网络代理` `软路由`    | ✅ 神器  | 现在全靠它了，不然外网访问都是问题；               |
+| [watchtower](https://github.com/nicholas-fedor/watchtower) *(⭐3123)*                       | 自动更新 Docker 容器镜像的实用工具。                          | `Docker` `自动化`  | ✅ 主力  | 更新docker神器                       |
+| [rtp2httpd](https://github.com/stackia/rtp2httpd) *(⭐1576)*                                | 将多播 RTP/RTSP 转换为单播 HTTP 的流媒体服务器。                | `流媒体` `转码`      | ✅ 主力  | 🔥🔥🔥                           |
+| [immich](https://github.com/immich-app/immich) *(⭐95322)*                                  | 体验媲美 Google Photos 的高性能自托管照片与视频备份方案。            | `相册管理` `备份`     | ❌ 优秀  | 因为有飞牛自带的，所以没用这个                  |
+| [syncthing](https://github.com/syncthing/syncthing) *(⭐80987)*                             | 去中心化的开源连续文件同步工具，NAS 必备。                         | `文件同步` `NAS`    | ❌     | 操作有些不符合国人操作习惯，还是verysync更顺手一些；   |
+| [memos](https://github.com/usememos/memos) *(⭐58086)*                                      | 开源、轻量且支持 Markdown 的自托管碎片化笔记工具。                  | `闪念笔记` `记录`     | ❌ 一般  | 体验上没有blinko好，太简洁了；               |
+| [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) *(⭐37530)*                 | 支持扫描、索引和归档的超级文档管理系统。                            | `文档管理` `无纸化`    | ❌     |                                  |
+| [server](https://github.com/nextcloud/server) *(⭐34400)*                                   | 开源强大的个人云盘服务器 Nextcloud 核心源码。                    | `私有云盘` `协作`     | ❌ 优秀  | 如果机器的性能再高一点，我就用这个了，性能不允许；        |
+| [watchtower](https://github.com/containrrr/watchtower) *(⭐24565)*                          | 全自动化的 Docker 容器基础镜像更新工具。                        | `Docker` `自动化`  | ⏸ 失望  | 这个是原版链接，但是不更新了；                  |
+| [sun-panel](https://github.com/hslr-s/sun-panel) *(⭐5018)*                                 | 高颜值的服务器、NAS 导航面板与浏览器首页。                         | `导航面板` `主页`     | ❌ 优秀  | 界面优秀，信息密度太低，所以pass；              |
+| [docker-calibre-web](https://github.com/linuxserver/docker-calibre-web) *(⭐1376)*          | Calibre-web 电子书库管理界面的 LinuxServer 官方 Docker 镜像。 | `电子书` `媒体库`     | ❌     |                                  |
+| [dockerCopilot](https://github.com/onlyLTY/dockerCopilot) *(⭐795)*                         | 极其简便的 Docker 容器一键更新工具。                          | `Docker` `管理`   | ❌ 待评估 | 和watchtower是一类，但是wt太好用了，所以没有试这个； |
+| [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) *(⭐281246)* | 全网极其庞大且详尽的免费自托管网络服务与应用大全。                       | `导航合集` `自托管`    | ⏳ 待评估 |                                  |
+| [beszel](https://github.com/henrygd/beszel) *(⭐20146)*                                     | 轻量级服务器监控中心，包含历史数据、Docker 状态及告警。                 | `探针` `监控面板`     | ⏳ 待评估 |                                  |
+| [openproject](https://github.com/opf/openproject) *(⭐14638)*                               | 领先的开源企业级项目管理与协作软件。                              | `项目管理` `协作`     | ⏳ 待评估 |                                  |
+| [FreshRSS](https://github.com/FreshRSS/FreshRSS) *(⭐14458)*                                | 免费且支持自托管的轻量级 RSS 新闻聚合器。                         | `RSS聚合` `阅读`    | ⏳ 待评估 |                                  |
+| [wallabag](https://github.com/wallabag/wallabag) *(⭐12583)*                                | 开源的网页稍后阅读工具，支持分类提取与永久保存。                        | `稍后阅读` `书签`     | ⏳ 待评估 |                                  |
+| [dozzle](https://github.com/amir20/dozzle) *(⭐12106)*                                      | 支持 Docker、Swarm 和 K8s 的超轻量实时容器日志查看器。            | `容器日志` `监控`     | ⏳ 待评估 |                                  |
+| [mealie](https://github.com/mealie-recipes/mealie) *(⭐11756)*                              | 支持 RestAPI 和自动导入的自托管家庭菜谱管家。                     | `生活管家` `菜谱`     | ⏳ 待评估 |                                  |
+| [MoviePilot](https://github.com/jxxghp/MoviePilot) *(⭐10731)*                              | 专为 NAS 打造的媒体库自动化管理工具。                           | `媒体库` `自动化`     | ⏳ 待评估 |                                  |
+| [linkding](https://github.com/sissbruecker/linkding) *(⭐10327)*                            | 极简、快速且易于 Docker 部署的自托管书签管理器。                    | `书签管理` `极简`     | ⏳ 待评估 |                                  |
+| [Heimdall](https://github.com/linuxserver/Heimdall) *(⭐9065)*                              | 优雅的应用程序导航面板与启动器。                                | `导航面板` `主页`     | ⏳ 待评估 |                                  |
+| [wewe-rss](https://github.com/cooderl/wewe-rss) *(⭐8995)*                                  | 支持私有化部署的优雅微信公众号 RSS 生成器。                        | `微信` `RSS聚合`    | ⏳ 待评估 |                                  |
+| [grocy](https://github.com/grocy/grocy) *(⭐8868)*                                          | 基于 Web 的自托管家庭食材杂货与家务 ERP 管理系统。                  | `生活管家` `ERP`    | ⏳ 待评估 |                                  |
+| [istoreos](https://github.com/istoreos/istoreos) *(⭐7472)*                                 | 面向新手的极其易用的路由器与 NAS 操作系统。                        | `系统路由` `NAS`    | ⏳ 待评估 |                                  |
+| [Prowlarr](https://github.com/Prowlarr/Prowlarr) *(⭐6250)*                                 | 完美集成各大影音管理软件的 BT/PT 索引器管理器。                     | `媒体库` `PT/BT`   | ⏳ 待评估 |                                  |
+| [Awesome-NAS-Docker](https://github.com/TWO-ICE/Awesome-NAS-Docker) *(⭐3759)*              | 专注于 NAS 和 Docker 部署的开源项目与一键教程合集。                | `NAS导航` `合集`    | ⏳ 待评估 |                                  |
+| [awesome_docker_cn](https://github.com/coracoo/awesome_docker_cn) *(⭐3443)*                | 收录上百款可 Docker 部署的中文项目指南及部署教程。                   | `Docker` `合集`   | ⏳ 待评估 |                                  |
+| [midea_ac_lan](https://github.com/wuwentao/midea_ac_lan) *(⭐1558)*                         | 通过局域网自动配置并控制美的智能家电的组件。                          | `智能家居` `HA`     | ⏳ 待评估 |                                  |
+| [cloudbak](https://github.com/likeflyme/cloudbak) *(⭐1343)*                                | 将微信数据备份到服务器、Docker 或 NAS 并支持 Web 访问的工具。         | `微信备份` `数据安全`   | ⏳ 待评估 |                                  |
+| [doku](https://github.com/amerkurev/doku) *(⭐410)*                                         | 轻量级的 Docker 磁盘空间使用情况可视化监控面板。                    | `Docker监控` `存储` | ⏳ 待评估 |                                  |
+| [sun-panel-helper](https://github.com/madrays/sun-panel-helper) *(⭐275)*                   | 为 Sun-Panel 导航面板开发的一键快捷美化插件。                    | `导航面板` `美化`     | ⏳ 待评估 |                                  |
+| [hass-hjq](https://github.com/XiaoMiku01/hass-hjq) *(⭐74)*                                 | 移动爱家（原和家亲）的 Home Assistant 集成插件。                | `智能家居` `HA`     | ⏳ 待评估 |                                  |
 
 ## ⚡ 自动化与效率工作流
 
