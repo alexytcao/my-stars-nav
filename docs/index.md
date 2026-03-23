@@ -94,39 +94,39 @@
 
 ## 💻 开发与极客组件
 
-| 项目与热度                                                                         | 核心功能                                   | 综合标签          | 状态与推荐 | 个人备注 |
-|:----------------------------------------------------------------------------- |:-------------------------------------- |:------------- |:----- |:---- |
-| [vscode](https://github.com/microsoft/vscode) *(⭐182912)*                     | 全球最受欢迎的开源跨平台代码编辑器，宇宙第一 IDE。            | `代码编辑` `IDE`  | ⏳ 待评估 |      |
-| [it-tools](https://github.com/CorentinTh/it-tools) *(⭐37726)*                 | 提供 JSON 格式化、JWT 解码等几十种开发者常用功能的在线工具箱界面。 | `开发者工具` `前端`  | ⏳ 待评估 |      |
-| [CyberChef](https://github.com/gchq/CyberChef) *(⭐34369)*                     | 被誉为“网络瑞士军刀”的顶级文本编解码、加密解密及数据分析 Web 工具。  | `极客工具箱` `加解密` | ⏳ 待评估 |      |
-| [motion](https://github.com/motiondivision/motion) *(⭐31269)*                 | 为 React 和 JavaScript 提供丝滑交互动效的现代动画库。   | `前端框架` `动画设计` | ⏳ 待评估 |      |
-| [docsify](https://github.com/docsifyjs/docsify) *(⭐31067)*                    | 无需静态编译的超轻量级动态文档网站生成器。                  | `文档构建` `前端框架` | ⏳ 待评估 |      |
-| [mkdocs-material](https://github.com/squidfunk/mkdocs-material) *(⭐26347)*    | 极度美观、强大的静态文档生成网站 Material 主题。          | `文档构建` `前端框架` | ⏳ 待评估 |      |
-| [source-han-serif](https://github.com/adobe-fonts/source-han-serif) *(⭐9338)* | 涵盖中日韩多语言的高质量开源“思源宋体”字体库。               | `字体` `排版`     | ⏳ 待评估 |      |
-| [NTrace-core](https://github.com/nxtrace/NTrace-core) *(⭐7653)*               | 开源、强大的可视化网络路由追踪（Traceroute）命令行工具。      | `网络诊断` `路由追踪` | ⏳ 待评估 |      |
-| [yacd](https://github.com/haishanh/yacd) *(⭐4765)*                            | 美观直观的 Clash 代理软件 Web 流量监控面板。           | `网络面板` `代理`   | ⏳ 待评估 |      |
-| [DailyHotApi](https://github.com/imsyy/DailyHotApi) *(⭐3676)*                 | 支持各大热点资讯网站抓取的聚合 API 接口服务源码。            | `热点聚合` `API`  | ⏳ 待评估 |      |
-| [iplist](https://github.com/metowolf/iplist) *(⭐1496)*                        | 提供精准的各地区网络 IP CIDR 路由段列表数据。            | `IP库` `网络路由`  | ⏳ 待评估 |      |
-| [DailyHot](https://github.com/imsyy/DailyHot) *(⭐878)*                        | 聚合知乎、微博、B站等各大平台当日热点的今日热榜前端页面。          | `热点聚合` `前端`   | ⏳ 待评估 |      |
-| [IP_database](https://github.com/adysec/IP_database) *(⭐729)*                 | 每日自动更新全网主流 IP 库（如纯真、GeoLite 等）的数据仓库。   | `IP库` `数据更新`  | ⏳ 待评估 |      |
-| [mobile](https://github.com/bitwarden/mobile) *(⭐218)*                        | 已退役归档的 Bitwarden 旧版移动端密码管理器源码。         | `密码管理` `移动端`  | ⏳ 待评估 |      |
-| [MouseFix](https://github.com/matreshka15/MouseFix) *(⭐131)*                  | 轻量、无干扰地解决鼠标双击及滚轮误判硬件老化的 Windows 工具。    | `硬件修复` `系统工具` | ⏳ 待评估 |      |
-| [magick-utils](https://github.com/n00mkrad/magick-utils) *(⭐94)*              | 方便开发者及极客使用的图像处理与格式转换工具套件。              | `图像处理` `工具包`  | ⏳ 待评估 |      |
+| 项目与热度                                                                         | 核心功能                                   | 综合标签          | 状态与推荐 | 个人备注                         |
+|:----------------------------------------------------------------------------- |:-------------------------------------- |:------------- |:----- |:---------------------------- |
+| [vscode](https://github.com/microsoft/vscode) *(⭐182912)*                     | 全球最受欢迎的开源跨平台代码编辑器，宇宙第一 IDE。            | `代码编辑` `IDE`  | ✅ ⬆️  | yyds                         |
+| [it-tools](https://github.com/CorentinTh/it-tools) *(⭐37726)*                 | 提供 JSON 格式化、JWT 解码等几十种开发者常用功能的在线工具箱界面。 | `开发者工具` `前端`  | ✅ 优秀  | 离线，本地，所以处理一些敏感信息很合适          |
+| [CyberChef](https://github.com/gchq/CyberChef) *(⭐34369)*                     | 被誉为“网络瑞士军刀”的顶级文本编解码、加密解密及数据分析 Web 工具。  | `极客工具箱` `加解密` | ⏳ 待评估 |                              |
+| [motion](https://github.com/motiondivision/motion) *(⭐31269)*                 | 为 React 和 JavaScript 提供丝滑交互动效的现代动画库。   | `前端框架` `动画设计` | ⏳ 待评估 |                              |
+| [docsify](https://github.com/docsifyjs/docsify) *(⭐31067)*                    | 无需静态编译的超轻量级动态文档网站生成器。                  | `文档构建` `前端框架` | ✅ 优秀  | 现在的docker清单就是用这个做的，实现了我的小目标！ |
+| [mkdocs-material](https://github.com/squidfunk/mkdocs-material) *(⭐26347)*    | 极度美观、强大的静态文档生成网站 Material 主题。          | `文档构建` `前端框架` | ⏳ 待评估 |                              |
+| [source-han-serif](https://github.com/adobe-fonts/source-han-serif) *(⭐9338)* | 涵盖中日韩多语言的高质量开源“思源宋体”字体库。               | `字体` `排版`     | ⏳ 待评估 |                              |
+| [NTrace-core](https://github.com/nxtrace/NTrace-core) *(⭐7653)*               | 开源、强大的可视化网络路由追踪（Traceroute）命令行工具。      | `网络诊断` `路由追踪` | ⏳ 待评估 |                              |
+| [yacd](https://github.com/haishanh/yacd) *(⭐4765)*                            | 美观直观的 Clash 代理软件 Web 流量监控面板。           | `网络面板` `代理`   | ✅ 优秀  | 代理首选                         |
+| [DailyHotApi](https://github.com/imsyy/DailyHotApi) *(⭐3676)*                 | 支持各大热点资讯网站抓取的聚合 API 接口服务源码。            | `热点聚合` `API`  | ⏳ 待评估 |                              |
+| [iplist](https://github.com/metowolf/iplist) *(⭐1496)*                        | 提供精准的各地区网络 IP CIDR 路由段列表数据。            | `IP库` `网络路由`  | ⏳ 待评估 |                              |
+| [DailyHot](https://github.com/imsyy/DailyHot) *(⭐878)*                        | 聚合知乎、微博、B站等各大平台当日热点的今日热榜前端页面。          | `热点聚合` `前端`   | ❌     | 现在好像不能用了                     |
+| [IP_database](https://github.com/adysec/IP_database) *(⭐729)*                 | 每日自动更新全网主流 IP 库（如纯真、GeoLite 等）的数据仓库。   | `IP库` `数据更新`  | ⏳ 待评估 |                              |
+| [mobile](https://github.com/bitwarden/mobile) *(⭐218)*                        | 已退役归档的 Bitwarden 旧版移动端密码管理器源码。         | `密码管理` `移动端`  | ⏳ 待评估 |                              |
+| [MouseFix](https://github.com/matreshka15/MouseFix) *(⭐131)*                  | 轻量、无干扰地解决鼠标双击及滚轮误判硬件老化的 Windows 工具。    | `硬件修复` `系统工具` | ⏳ 待评估 |                              |
+| [magick-utils](https://github.com/n00mkrad/magick-utils) *(⭐94)*              | 方便开发者及极客使用的图像处理与格式转换工具套件。              | `图像处理` `工具包`  | ⏳ 待评估 |                              |
 
 ## 🎮 生活、投资与娱乐
 
-| 项目与热度                                                                                          | 核心功能                                  | 综合标签          | 状态与推荐 | 个人备注 |
-|:---------------------------------------------------------------------------------------------- |:------------------------------------- |:------------- |:----- |:---- |
-| [HowToCook](https://github.com/Anduin2017/HowToCook) *(⭐98960)*                                | 极其火爆的采用程序员思维编写的精细化居家做饭菜谱指南。           | `生活菜谱` `极客生活` | ⏳ 待评估 |      |
-| [TVAPP](https://github.com/youhunwl/TVAPP) *(⭐14572)*                                          | 整理并验证各类 Android TV 电视盒子直播与影视应用的精品资源库。 | `电视盒子` `影音应用` | ⏳ 待评估 |      |
-| [epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer) *(⭐2238)* | 全自动帮你白嫖并领取 Epic 游戏商城限免游戏的脚本工具。        | `游戏白嫖` `自动化`  | ⏳ 待评估 |      |
+| 项目与热度                                                                                          | 核心功能                                  | 综合标签          | 状态与推荐 | 个人备注       |
+|:---------------------------------------------------------------------------------------------- |:------------------------------------- |:------------- |:----- |:---------- |
+| [HowToCook](https://github.com/Anduin2017/HowToCook) *(⭐98960)*                                | 极其火爆的采用程序员思维编写的精细化居家做饭菜谱指南。           | `生活菜谱` `极客生活` | ✅ 优秀  | 需要找时间实践一下！ |
+| [TVAPP](https://github.com/youhunwl/TVAPP) *(⭐14572)*                                          | 整理并验证各类 Android TV 电视盒子直播与影视应用的精品资源库。 | `电视盒子` `影音应用` | ⏳ 待评估 |            |
+| [epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer) *(⭐2238)* | 全自动帮你白嫖并领取 Epic 游戏商城限免游戏的脚本工具。        | `游戏白嫖` `自动化`  | ❌ 待评估 |            |
 
 ## 📦 未分类盲盒
 
-| 项目与热度                                                                  | 核心功能                               | 综合标签           | 状态与推荐 | 个人备注 |
-|:---------------------------------------------------------------------- |:---------------------------------- |:-------------- |:----- |:---- |
-| [jdpro](https://github.com/6dylan6/jdpro) *(⭐4309)*                    | 疑似京东相关自动化或签到脚本（仓库缺乏描述）。            | `薅羊毛` `未知分类`   | ⏳ 待评估 |      |
-| [ruankao_itpm](https://github.com/xiaomabenten/ruankao_itpm) *(⭐1207)* | 整理 2025 年信息系统项目管理师（软考高级）的备考资源库。    | `考试认证` `学习资料`  | ⏳ 待评估 |      |
-| [fn-apps](https://github.com/RROrg/fn-apps) *(⭐158)*                   | 项目缺乏具体功能描述。                        | `未知分类`         | ⏳ 待评估 |      |
-| [coolapk-shenge](https://github.com/Okarin1/coolapk-shenge) *(⭐22)*    | 整理酷安某用户（沈哥）相关思考动态与言论的 Markdown 归档。 | `语录记录` `互联网吃瓜` | ⏳ 待评估 |      |
-| [hejiaqin](https://github.com/cx3Y/hejiaqin) *(⭐17)*                   | 疑似中国移动“和家亲”智能家居设备的逆向或接入相关仓库。       | `智能家居` `未知分类`  | ⏳ 待评估 |      |
+| 项目与热度                                                                  | 核心功能                               | 综合标签           | 状态与推荐 | 个人备注                |
+|:---------------------------------------------------------------------- |:---------------------------------- |:-------------- |:----- |:------------------- |
+| [jdpro](https://github.com/6dylan6/jdpro) *(⭐4309)*                    | 疑似京东相关自动化或签到脚本（仓库缺乏描述）。            | `薅羊毛` `未知分类`   | ✅ 优秀  | 在用的脚本；很不错！          |
+| [ruankao_itpm](https://github.com/xiaomabenten/ruankao_itpm) *(⭐1207)* | 整理 2025 年信息系统项目管理师（软考高级）的备考资源库。    | `考试认证` `学习资料`  | ⏳ 待评估 |                     |
+| [fn-apps](https://github.com/RROrg/fn-apps) *(⭐158)*                   | 项目缺乏具体功能描述。                        | `未知分类`         | ⏳ 待评估 |                     |
+| [coolapk-shenge](https://github.com/Okarin1/coolapk-shenge) *(⭐22)*    | 整理酷安某用户（沈哥）相关思考动态与言论的 Markdown 归档。 | `语录记录` `互联网吃瓜` | ⏳ 待评估 | 沈哥，永远的精神寄托！没事了就翻两下； |
+| [hejiaqin](https://github.com/cx3Y/hejiaqin) *(⭐17)*                   | 疑似中国移动“和家亲”智能家居设备的逆向或接入相关仓库。       | `智能家居` `未知分类`  | ⏳ 待评估 |                     |
