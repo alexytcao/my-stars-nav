@@ -1,4 +1,5 @@
 <!-- 1. 这里是样式（只需在文件头部放一次） -->
+
 <style>
 .bookmark-grid { 
   display: grid; 
@@ -35,15 +36,17 @@
 </style>
 
 <!-- 2. 这里是书签内容（新增书签就复制这段 div） -->
+
 <div class="bookmark-grid">
 
-  <!-- 【改这里】：复制这个卡片结构来增加新书签 -->
-  <div class="bookmark-card">
+<!-- 【改这里】：复制这个卡片结构来增加新书签 -->
+
+<div class="bookmark-card">
     <a href="https://github.com" target="_blank">🐙 GitHub</a>
     <p>全球最大的同性交友网站，代码托管平台。</p>
   </div>
 
-  <div class="bookmark-card">
+<div class="bookmark-card">
     <a href="https://v2ex.com" target="_blank">💬 V2EX</a>
     <p>程序员的日常摸鱼与交流社区。</p>
   </div>
