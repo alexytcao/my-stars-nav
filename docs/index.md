@@ -46,6 +46,7 @@
 | [mealie](https://github.com/mealie-recipes/mealie) *(⭐11756)*                 | 支持 RestAPI 和自动导入的自托管家庭菜谱管家。                     | `生活管家` `菜谱`     | ⏳ 待评估 |                                  |
 | [MoviePilot](https://github.com/jxxghp/MoviePilot) *(⭐10731)*                 | 专为 NAS 打造的媒体库自动化管理工具。                           | `媒体库` `自动化`     | ⏳ 待评估 |                                  |
 | [linkding](https://github.com/sissbruecker/linkding) *(⭐10327)*               | 极简、快速且易于 Docker 部署的自托管书签管理器。                    | `书签管理` `极简`     | ⏳ 待评估 |                                  |
+| [TrendRadar](https://github.com/sansan0/TrendRadar) *(⭐49455)*                         | 聚合多平台热点、通过 AI 智能筛选摘要并多渠道告警的舆情监控助手。        | `舆情监控` `AI分析`   | ⏳ 待评估 |      |
 | [Heimdall](https://github.com/linuxserver/Heimdall) *(⭐9065)*                 | 优雅的应用程序导航面板与启动器。                                | `导航面板` `主页`     | ⏳ 待评估 |                                  |
 | [wewe-rss](https://github.com/cooderl/wewe-rss) *(⭐8995)*                     | 支持私有化部署的优雅微信公众号 RSS 生成器。                        | `微信` `RSS聚合`    | ⏳ 待评估 |                                  |
 | [grocy](https://github.com/grocy/grocy) *(⭐8868)*                             | 基于 Web 的自托管家庭食材杂货与家务 ERP 管理系统。                  | `生活管家` `ERP`    | ⏳ 待评估 |                                  |
@@ -78,14 +79,16 @@
 | [Microsoft-Rewards-Script](https://github.com/TheNetsky/Microsoft-Rewards-Script) *(⭐721)*                               | 全自动获取微软 Rewards 积分的刷分脚本。                 | `自动化脚本` `积分`     | ⏳ 待评估 |      |
 | [docformat-gui](https://github.com/KaguraNanaga/docformat-gui) *(⭐246)*                                                  | 支持本地运行的公文格式自动化排版与处理工具。                   | `办公效率` `排版`      | ⏳ 待评估 |      |
 | [tiklab-kanass](https://github.com/tiklab-project/tiklab-kanass) *(⭐111)*                                                | 一款开源的项目管理工具服务端模块。                        | `项目管理` `协同`      | ⏳ 待评估 |      |
+| [epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer) *(⭐2238)* | 全自动帮你白嫖并领取 Epic 游戏商城限免游戏的脚本工具。     | `游戏白嫖` `自动化`   | ❌ 待评估 |                     |
 | [magicpush](https://github.com/magiccode1412/magicpush) *(⭐16)*                                                          | 通过标准 REST API 接入多种渠道的推送服务管理平台。           | `消息推送` `API`     | ⏳ 待评估 |      |
+
+### 💻 Windows专题
 
 ## 🧠 AI 与提示词工程
 
 | 项目与热度                                                                                  | 核心功能                                      | 综合标签            | 状态与推荐 | 个人备注 |
 |:-------------------------------------------------------------------------------------- |:----------------------------------------- |:--------------- |:----- |:---- |
 | [lobehub](https://github.com/lobehub/lobehub) *(⭐74045)*                               | 强大的现代多 Agent 协作客户端，支持极佳的视觉与插件体系。          | `AI客户端` `Agent` | ⏳ 待评估 |      |
-| [TrendRadar](https://github.com/sansan0/TrendRadar) *(⭐49455)*                         | 聚合多平台热点、通过 AI 智能筛选摘要并多渠道告警的舆情监控助手。        | `舆情监控` `AI分析`   | ⏳ 待评估 |      |
 | [Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) *(⭐24464)*                     | 旨在让每个人都能解锁 AI 手机的端侧 Agent 模型与执行框架。        | `Agent` `大模型`   | ⏳ 待评估 |      |
 | [free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) *(⭐16494)* | 汇总并实时更新全网可通过 API 调用的免费大模型接口资源列表。          | `LLM` `API聚合`   | ⏳ 待评估 |      |
 | [mi-gpt](https://github.com/idootop/mi-gpt) *(⭐12294)*                                 | 将小爱音箱接入 ChatGPT 或豆包，打造家庭专属 AI 语音助手。       | `智能音箱` `LLM接入`  | ⏳ 待评估 |      |
@@ -115,7 +118,6 @@
 
 | 项目与热度                                                                                          | 核心功能                               | 综合标签           | 状态与推荐 | 个人备注                |
 |:---------------------------------------------------------------------------------------------- |:---------------------------------- |:-------------- |:----- |:------------------- |
-| [epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer) *(⭐2238)* | 全自动帮你白嫖并领取 Epic 游戏商城限免游戏的脚本工具。     | `游戏白嫖` `自动化`   | ❌ 待评估 |                     |
 | [coolapk-shenge](https://github.com/Okarin1/coolapk-shenge) *(⭐22)*                            | 整理酷安某用户（沈哥）相关思考动态与言论的 Markdown 归档。 | `语录记录` `互联网吃瓜` | ⏳ 待评估 | 沈哥，永远的精神寄托！没事了就翻两下； |
 
 ## 📦 未分类盲盒
