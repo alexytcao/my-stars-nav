@@ -147,6 +147,7 @@
 ## 📒 obsidian
 
 | 项目与热度                                                              | 核心功能                         | 综合标签          | 状态与推荐 | 个人备注 |
+|:------------------------------------------------------------------ |:---------------------------- |:------------- |:----- |:---- |
 | [obsidian-consistent-attachments-and-links](https://github.com/dy-sh/obsidian-consistent-attachments-and-links) *(⭐351)* | 移动 Obsidian 笔记时自动整理底层附件及引用的实用插件。         | `Obsidian` `插件`  | ⏳ 待评估 |      |
 | [obsidian-releases](https://github.com/obsidianmd/obsidian-releases) *(⭐15630)*                                          | Obsidian 官方维护的社区插件、主题及版本发布库源。            | `Obsidian` `知识库` | ⏳ 待评估 |      |
 | [obsidian-i18n](https://github.com/eondrcode/obsidian-i18n) *(⭐533)*                                                     | 用于 Obsidian 软件或插件本地化翻译支持的扩展。             | `Obsidian` `插件`  | ⏳ 待评估 |      |
