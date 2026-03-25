@@ -8,6 +8,7 @@
 |:------------------------------------------------------------------ |:---------------------------- |:------------- |:----- |:---- |
 | [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) *(⭐281246)*                               | 全网极其庞大且详尽的免费自托管网络服务与应用大全。                | `导航合集` `自托管`     | ⏳ 待评估 |      |
 | [n8n-workflows](https://github.com/Zie619/n8n-workflows) *(⭐53096)*                                                      | 收集并整理了大量实用 n8n 自动化工作流的模板合集。              | `工作流模板` `参考`     | ⏳ 待评估 |      |
+| [HowToCook](https://github.com/Anduin2017/HowToCook) *(⭐98960)*                                | 极其火爆的采用程序员思维编写的精细化居家做饭菜谱指南。        | `生活菜谱` `极客生活`  | ✅ 优秀  | 需要找时间实践一下！          |
 | [Awesome-NAS-Docker](https://github.com/TWO-ICE/Awesome-NAS-Docker) *(⭐3759)* | 专注于 NAS 和 Docker 部署的开源项目与一键教程合集。                | `NAS导航` `合集`    | ⏳ 待评估 |                                  |
 
 
@@ -55,28 +56,26 @@
 | [czkawka](https://github.com/qarmin/czkawka) *(⭐30123)*                                                                  | 极速且多功能的重复文件、空文件夹及相似图像清理工具。               | `空间清理` `文件管理`    | ⏳ 待评估 |      |
 | [mind-map](https://github.com/wanglin2/mind-map) *(⭐11887)*                                                              | 强大、轻量且可嵌入的 Web 端思维导图库及应用（SimpleMindMap）。 | `思维导图` `可视化`     | ⏳ 待评估 |      |
 | [Wechat2RSS](https://github.com/ttttmr/Wechat2RSS) *(⭐1306)*                                                             | 将微信公众号文章自动转换为 RSS 订阅源的服务。                | `微信` `RSS聚合`     | ⏳ 待评估 |      |
+| [n8n](https://github.com/n8n-io/n8n) *(⭐180276)*                                                                         | 支持节点化构建、集成 AI 且可自托管的顶级自动化工作流平台。          | `自动化` `工作流`      | ⏳ 待评估 |      |
+| [DailyHot](https://github.com/imsyy/DailyHot) *(⭐878)*                        | 聚合知乎、微博、B站等各大平台当日热点的今日热榜前端页面。        | `热点聚合` `前端`   | ❌     | 现在好像不能用了                     |
+| [NextChat](https://github.com/ChatGPTNextWeb/NextChat) *(⭐87558)*                      | 轻量、跨端且极速的现象级 AI 助手与对话客户端界面。               | `AI客户端` `跨平台`   | ⏳ 待评估 |      |
 | [sun-panel-helper](https://github.com/madrays/sun-panel-helper) *(⭐275)*      | 为 Sun-Panel 导航面板开发的一键快捷美化插件。                    | `导航面板` `美化`     | ⏳ 待评估 |                                  |
 
 ## ⚡ 自动化与效率工作流
 
 | 项目与热度                                                                                                                    | 核心功能                                     | 综合标签             | 状态与推荐 | 个人备注 |
 |:------------------------------------------------------------------------------------------------------------------------ |:---------------------------------------- |:---------------- |:----- |:---- |
-| [n8n](https://github.com/n8n-io/n8n) *(⭐180276)*                                                                         | 支持节点化构建、集成 AI 且可自托管的顶级自动化工作流平台。          | `自动化` `工作流`      | ⏳ 待评估 |      |
 | [plane](https://github.com/makeplane/plane) *(⭐46821)*                                                                   | 旨在替代 Jira 的极具现代感的敏捷项目管理与任务分发平台。          | `敏捷管理` `项目工具`    | ⏳ 待评估 |      |
 | [EasySpider](https://github.com/NaiboWang/EasySpider) *(⭐44121)*                                                         | 易采集：可视化无代码的网页爬虫设计与数据采集工具。                | `爬虫` `无代码`       | ⏳ 待评估 |      |
 | [ShareX](https://github.com/ShareX/ShareX) *(⭐35946)*                                                                    | Windows 上功能极其逆天的开源截图、录屏及文件分享神器。          | `截图工具` `录屏`      | ⏳ 待评估 |      |
 | [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) *(⭐26573)*                                                    | 轻巧且强大的屏幕录像转 GIF 动图编辑与制作工具。               | `GIF制作` `录屏`     | ⏳ 待评估 |      |
-| [qinglong](https://github.com/whyour/qinglong) *(⭐19415)*                                                                | 支持多语言脚本执行与极简界面的强大定时任务管理平台（青龙面板）。         | `定时任务` `脚本`      | ⏳ 待评估 |      |
 | [rime-ice](https://github.com/iDvel/rime-ice) *(⭐16163)*                                                                 | 长期精心维护的 Rime 输入法高质量中文拼音词库（雾凇拼音）。         | `输入法` `词库`       | ⏳ 待评估 |      |
-| [obsidian-releases](https://github.com/obsidianmd/obsidian-releases) *(⭐15630)*                                          | Obsidian 官方维护的社区插件、主题及版本发布库源。            | `Obsidian` `知识库` | ⏳ 待评估 |      |
 | [Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) *(⭐9230)*                             | 根据时间自动切换 Windows 深色与浅色主题的小工具。            | `系统工具` `自动化`     | ⏳ 待评估 |      |
 | [WeFlow](https://github.com/hicccc77/WeFlow) *(⭐5373)*                                                                   | 本地运行的微信聊天记录导出及年度社交报告生成应用。                | `微信备份` `数据提取`    | ⏳ 待评估 |      |
 | [echotrace](https://github.com/ycccccccy/echotrace) *(⭐3343)*                                                            | 本地安全的微信聊天记录导出、统计与分析的工具。                  | `微信备份` `数据分析`    | ⏳ 待评估 |      |
 | [WindowsCleaner](https://github.com/darkmatter2048/WindowsCleaner) *(⭐3319)*                                             | 专治 C 盘爆红的 Windows 系统级深度清理工具。             | `系统清理` `磁盘管理`    | ⏳ 待评估 |      |
 | [crosspaste-desktop](https://github.com/CrossPaste/crosspaste-desktop) *(⭐1916)*                                         | 支持全平台设备无缝互传的通用剪贴板共享工具。                   | `剪贴板` `跨平台`      | ⏳ 待评估 |      |
 | [Microsoft-Rewards-Script](https://github.com/TheNetsky/Microsoft-Rewards-Script) *(⭐721)*                               | 全自动获取微软 Rewards 积分的刷分脚本。                 | `自动化脚本` `积分`     | ⏳ 待评估 |      |
-| [obsidian-i18n](https://github.com/eondrcode/obsidian-i18n) *(⭐533)*                                                     | 用于 Obsidian 软件或插件本地化翻译支持的扩展。             | `Obsidian` `插件`  | ⏳ 待评估 |      |
-| [obsidian-consistent-attachments-and-links](https://github.com/dy-sh/obsidian-consistent-attachments-and-links) *(⭐351)* | 移动 Obsidian 笔记时自动整理底层附件及引用的实用插件。         | `Obsidian` `插件`  | ⏳ 待评估 |      |
 | [docformat-gui](https://github.com/KaguraNanaga/docformat-gui) *(⭐246)*                                                  | 支持本地运行的公文格式自动化排版与处理工具。                   | `办公效率` `排版`      | ⏳ 待评估 |      |
 | [tiklab-kanass](https://github.com/tiklab-project/tiklab-kanass) *(⭐111)*                                                | 一款开源的项目管理工具服务端模块。                        | `项目管理` `协同`      | ⏳ 待评估 |      |
 | [magicpush](https://github.com/magiccode1412/magicpush) *(⭐16)*                                                          | 通过标准 REST API 接入多种渠道的推送服务管理平台。           | `消息推送` `API`     | ⏳ 待评估 |      |
@@ -85,7 +84,6 @@
 
 | 项目与热度                                                                                  | 核心功能                                      | 综合标签            | 状态与推荐 | 个人备注 |
 |:-------------------------------------------------------------------------------------- |:----------------------------------------- |:--------------- |:----- |:---- |
-| [NextChat](https://github.com/ChatGPTNextWeb/NextChat) *(⭐87558)*                      | 轻量、跨端且极速的现象级 AI 助手与对话客户端界面。               | `AI客户端` `跨平台`   | ⏳ 待评估 |      |
 | [lobehub](https://github.com/lobehub/lobehub) *(⭐74045)*                               | 强大的现代多 Agent 协作客户端，支持极佳的视觉与插件体系。          | `AI客户端` `Agent` | ⏳ 待评估 |      |
 | [TrendRadar](https://github.com/sansan0/TrendRadar) *(⭐49455)*                         | 聚合多平台热点、通过 AI 智能筛选摘要并多渠道告警的舆情监控助手。        | `舆情监控` `AI分析`   | ⏳ 待评估 |      |
 | [Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) *(⭐24464)*                     | 旨在让每个人都能解锁 AI 手机的端侧 Agent 模型与执行框架。        | `Agent` `大模型`   | ⏳ 待评估 |      |
@@ -108,18 +106,15 @@
 | [yacd](https://github.com/haishanh/yacd) *(⭐4765)*                            | 美观直观的 Clash 代理软件 Web 流量监控面板。         | `网络面板` `代理`   | ✅ 优秀  | 代理首选                         |
 | [DailyHotApi](https://github.com/imsyy/DailyHotApi) *(⭐3676)*                 | 支持各大热点资讯网站抓取的聚合 API 接口服务源码。          | `热点聚合` `API`  | ⏳ 待评估 |                              |
 | [iplist](https://github.com/metowolf/iplist) *(⭐1496)*                        | 提供精准的各地区网络 IP CIDR 路由段列表数据。          | `IP库` `网络路由`  | ⏳ 待评估 |                              |
-| [DailyHot](https://github.com/imsyy/DailyHot) *(⭐878)*                        | 聚合知乎、微博、B站等各大平台当日热点的今日热榜前端页面。        | `热点聚合` `前端`   | ❌     | 现在好像不能用了                     |
 | [IP_database](https://github.com/adysec/IP_database) *(⭐729)*                 | 每日自动更新全网主流 IP 库（如纯真、GeoLite 等）的数据仓库。 | `IP库` `数据更新`  | ⏳ 待评估 |                              |
 | [mobile](https://github.com/bitwarden/mobile) *(⭐218)*                        | 已退役归档的 Bitwarden 旧版移动端密码管理器源码。       | `密码管理` `移动端`  | ⏳ 待评估 |                              |
 | [MouseFix](https://github.com/matreshka15/MouseFix) *(⭐131)*                  | 轻量、无干扰地解决鼠标双击及滚轮误判硬件老化的 Windows 工具。  | `硬件修复` `系统工具` | ⏳ 待评估 |                              |
 | [magick-utils](https://github.com/n00mkrad/magick-utils) *(⭐94)*              | 方便开发者及极客使用的图像处理与格式转换工具套件。            | `图像处理` `工具包`  | ⏳ 待评估 |                              |
-| [hass-hjq](https://github.com/XiaoMiku01/hass-hjq) *(⭐74)*                    | 移动爱家（原和家亲）的 Home Assistant 集成插件。     | `智能家居` `HA`   | ⏳ 待评估 |                              |
 
 ## 🎮 生活、投资与娱乐
 
 | 项目与热度                                                                                          | 核心功能                               | 综合标签           | 状态与推荐 | 个人备注                |
 |:---------------------------------------------------------------------------------------------- |:---------------------------------- |:-------------- |:----- |:------------------- |
-| [HowToCook](https://github.com/Anduin2017/HowToCook) *(⭐98960)*                                | 极其火爆的采用程序员思维编写的精细化居家做饭菜谱指南。        | `生活菜谱` `极客生活`  | ✅ 优秀  | 需要找时间实践一下！          |
 | [epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer) *(⭐2238)* | 全自动帮你白嫖并领取 Epic 游戏商城限免游戏的脚本工具。     | `游戏白嫖` `自动化`   | ❌ 待评估 |                     |
 | [coolapk-shenge](https://github.com/Okarin1/coolapk-shenge) *(⭐22)*                            | 整理酷安某用户（沈哥）相关思考动态与言论的 Markdown 归档。 | `语录记录` `互联网吃瓜` | ⏳ 待评估 | 沈哥，永远的精神寄托！没事了就翻两下； |
 
@@ -136,6 +131,7 @@
 
 | 项目与热度                                                           | 核心功能                              | 综合标签         | 状态与推荐 | 个人备注       |
 |:--------------------------------------------------------------- |:--------------------------------- |:------------ |:----- |:---------- |
+| [qinglong](https://github.com/whyour/qinglong) *(⭐19415)*                                                                | 支持多语言脚本执行与极简界面的强大定时任务管理平台（青龙面板）。         | `定时任务` `脚本`      | ⏳ 待评估 |      |
 | [jdpro](https://github.com/6dylan6/jdpro) *(⭐4309)*             | 疑似京东相关自动化或签到脚本（仓库缺乏描述）。           | `薅羊毛` `未知分类` | ✅ 优秀  | 在用的脚本；很不错！ |
 | [jdm](https://github.com/6dylan6/jdm) *(⭐334)*                                                                           | 自动化优惠线报监控与聚合通知脚本合集。                      | `线报监控` `羊毛`      | ⏳ 待评估 |      |
 | [dailycheckin](https://github.com/Sitoi/dailycheckin) *(⭐8576)* | 基于 Docker/青龙面板的支持上百个站点的全自动每日签到脚本。 | `自动签到` `脚本`  | ⏳ 待评估 |            |
@@ -145,5 +141,12 @@
 | 项目与热度                                                              | 核心功能                         | 综合标签          | 状态与推荐 | 个人备注 |
 |:------------------------------------------------------------------ |:---------------------------- |:------------- |:----- |:---- |
 | [midea_ac_lan](https://github.com/wuwentao/midea_ac_lan) *(⭐1558)* | 通过局域网自动配置并控制美的智能家电的组件。       | `智能家居` `HA`   | ⏳ 待评估 |      |
+| [hass-hjq](https://github.com/XiaoMiku01/hass-hjq) *(⭐74)*                    | 移动爱家（原和家亲）的 Home Assistant 集成插件。     | `智能家居` `HA`   | ⏳ 待评估 |                              |
 | [hejiaqin](https://github.com/cx3Y/hejiaqin) *(⭐17)*               | 疑似中国移动“和家亲”智能家居设备的逆向或接入相关仓库。 | `智能家居` `未知分类` | ⏳ 待评估 |      |
 
+## 📒 obsidian
+
+| 项目与热度                                                              | 核心功能                         | 综合标签          | 状态与推荐 | 个人备注 |
+| [obsidian-consistent-attachments-and-links](https://github.com/dy-sh/obsidian-consistent-attachments-and-links) *(⭐351)* | 移动 Obsidian 笔记时自动整理底层附件及引用的实用插件。         | `Obsidian` `插件`  | ⏳ 待评估 |      |
+| [obsidian-releases](https://github.com/obsidianmd/obsidian-releases) *(⭐15630)*                                          | Obsidian 官方维护的社区插件、主题及版本发布库源。            | `Obsidian` `知识库` | ⏳ 待评估 |      |
+| [obsidian-i18n](https://github.com/eondrcode/obsidian-i18n) *(⭐533)*                                                     | 用于 Obsidian 软件或插件本地化翻译支持的扩展。             | `Obsidian` `插件`  | ⏳ 待评估 |      |
